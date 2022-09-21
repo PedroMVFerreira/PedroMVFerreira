@@ -9,7 +9,7 @@ I'm currently in the middle of my degree, learning technologies like Assembly, C
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/PedroMVFerreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-vale-ferreira-641323251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pedromiguel936" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/PedroMVFerreira" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2Fwooomx_github-icon-white-png-github-icon-black-background%2F&psig=AOvVaw2pG00TMbTGy7aYzu-_Q5v3&ust=1663849009550000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCs59rupfoCFQAAAAAdAAAAABAE" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-vale-ferreira-641323251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pedromiguel936" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
