@@ -1,5 +1,12 @@
+<style>
+  html{
+  background-color: rgb(211, 211, 211);
+  }
+</style>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Vale Ferreira a telecommunications and computer engineering student.
-I'm currently in the middle of my degree, learning technologies like assembly, C, Java and others.* 🌍  I'm based in Guimarães, Portugal* ✉️  You can contact me at [pmvferreira02@gmail.com](mailto:pmvferreira02@gmail.com)
+I'm currently in the middle of my degree, learning technologies like Assembly, C, Java, HTML5, CCS3 and others. 
+🌍  I'm based in Guimarães, Portugal.
+✉️  You can contact me at [pmvferreira02@gmail.com](mailto:pmvferreira02@gmail.com)
 
 ### Skills
 
